@@ -750,6 +750,31 @@ Sukrapath Cooperative| Apply
                                         </div>
                                     </div>
                                 </div>
+                                <!-- Branch Office -->
+                                <div class=" iafbb-single">
+                                    <div class="row">
+                                        <div class="col-lg-2 iafl">
+                                            <div class="iaf-left">
+                                                <span>Branch</span>
+                                                <span>(साखा)</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-10 d-f">
+                                            <div class="iaf-right">
+                                                <form action="/action_page.php">
+                                                    <select name="branch" id="branch">
+                                                        <option value="newroad">New Road</option>
+                                                        <option value="kalimati">Kalimati</option>
+                                                        <option value="gongabu">Gongabu</option>
+                                                        <option value="chabhil">Chabhil</option>
+                                                        <option value="tinkune">Tinkune</option>
+                                                        <option value="lagankhel">Lagankhel</option>
+                                                    </select>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <!-- PHOTO -->
                                 <div class=" iafbb-single iafbb-photo">
                                     <div class="iaf-right iaf-right-photo">

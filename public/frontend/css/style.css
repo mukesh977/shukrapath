@@ -3547,6 +3547,16 @@ i.fa.fa-phone {
 
 /* start of apply online 2.0 */
 
+.d-f {
+    display: flex;
+    align-items: center;
+}
+
+select#branch {
+    /* width: 10%; */
+    padding: 4px 20px;
+}
+
 .inner-apply {
     padding: 50px 10px;
     background-color: #e0e0e0;
