@@ -582,6 +582,7 @@ class ComposerStaticInita75287569dba669d49df92bf2442b3b3
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
         'App\\Http\\View\\Composer\\AboutUsComposer' => __DIR__ . '/../..' . '/app/Http/View/Composer/AboutUsComposer.php',
         'App\\Http\\View\\Composer\\AffiliationComposer' => __DIR__ . '/../..' . '/app/Http/View/Composer/AffiliationComposer.php',
+        'App\\Http\\View\\Composer\\DepartmentComposer' => __DIR__ . '/../..' . '/app/Http/View/Composer/DepartmentComposer.php',
         'App\\Http\\View\\Composer\\PageComposer' => __DIR__ . '/../..' . '/app/Http/View/Composer/PageComposer.php',
         'App\\Http\\View\\Composer\\SettingComposer' => __DIR__ . '/../..' . '/app/Http/View/Composer/SettingComposer.php',
         'App\\Mail\\ApplyMailable' => __DIR__ . '/../..' . '/app/Mail/ApplyMailable.php',

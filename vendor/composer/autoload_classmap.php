@@ -51,6 +51,7 @@ return array(
     'App\\Http\\Middleware\\VerifyCsrfToken' => $baseDir . '/app/Http/Middleware/VerifyCsrfToken.php',
     'App\\Http\\View\\Composer\\AboutUsComposer' => $baseDir . '/app/Http/View/Composer/AboutUsComposer.php',
     'App\\Http\\View\\Composer\\AffiliationComposer' => $baseDir . '/app/Http/View/Composer/AffiliationComposer.php',
+    'App\\Http\\View\\Composer\\DepartmentComposer' => $baseDir . '/app/Http/View/Composer/DepartmentComposer.php',
     'App\\Http\\View\\Composer\\PageComposer' => $baseDir . '/app/Http/View/Composer/PageComposer.php',
     'App\\Http\\View\\Composer\\SettingComposer' => $baseDir . '/app/Http/View/Composer/SettingComposer.php',
     'App\\Mail\\ApplyMailable' => $baseDir . '/app/Mail/ApplyMailable.php',

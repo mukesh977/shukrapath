@@ -47,5 +47,6 @@ class Apply extends Model
         'location_map',
         'signature',
         'document_photo',
+        'branch',
     ];
 }

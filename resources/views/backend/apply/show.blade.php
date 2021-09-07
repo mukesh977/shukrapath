@@ -644,6 +644,26 @@
                                         </div>
                                     </div>
                                 </div>
+                                <!-- Branch Office -->
+                                <div class=" iafbb-single">
+                                    <div class="row">
+                                        <div class="col-lg-2 iafl">
+                                            <div class="iaf-left">
+                                                <span>Branch</span>
+                                                <span>(साखा)</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-10 d-f">
+                                            <div class="iaf-right">
+                                                <input
+                                                type="text" name="adv_name" value="{{ $apply->branch }}" size="40"
+                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
+                                                aria-required="true" aria-invalid="false"
+                                                placeholder="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <!-- PHOTO -->
                                 <div class=" iafbb-single iafbb-photo">
                                     <div class="iaf-right iaf-right-photo">

@@ -215,7 +215,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -239,7 +239,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off" ></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -263,7 +263,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -287,7 +287,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -313,7 +313,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -339,8 +339,7 @@ Sukrapath Cooperative| Apply
                                                                         size="40"
                                                                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                         aria-required="true" aria-invalid="false"
-                                                                        placeholder="" autocomplete="off"
-                                                                        required></span>
+                                                                        placeholder="" autocomplete="off"></span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -364,8 +363,7 @@ Sukrapath Cooperative| Apply
                                                                         size="40"
                                                                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                         aria-required="true" aria-invalid="false"
-                                                                        placeholder="" autocomplete="off"
-                                                                        required></span>
+                                                                        placeholder="" autocomplete="off"></span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -389,8 +387,7 @@ Sukrapath Cooperative| Apply
                                                                         size="40"
                                                                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                         aria-required="true" aria-invalid="false"
-                                                                        placeholder="" autocomplete="off"
-                                                                        required></span>
+                                                                        placeholder="" autocomplete="off"></span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -415,7 +412,7 @@ Sukrapath Cooperative| Apply
                                                                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                         aria-required="true" aria-invalid="false"
                                                                         placeholder="" autocomplete="off"
-                                                                        required></span>
+                                                                        ></span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -444,7 +441,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off" ></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -471,7 +468,7 @@ Sukrapath Cooperative| Apply
                                                                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                         aria-required="true" aria-invalid="false"
                                                                         placeholder="" autocomplete="off"
-                                                                        required></span>
+                                                                        ></span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -496,7 +493,7 @@ Sukrapath Cooperative| Apply
                                                                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                         aria-required="true" aria-invalid="false"
                                                                         placeholder="" autocomplete="off"
-                                                                        required></span>
+                                                                        ></span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -521,7 +518,7 @@ Sukrapath Cooperative| Apply
                                                                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                         aria-required="true" aria-invalid="false"
                                                                         placeholder="" autocomplete="off"
-                                                                        required></span>
+                                                                        ></span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -546,7 +543,7 @@ Sukrapath Cooperative| Apply
                                                                         class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                         aria-required="true" aria-invalid="false"
                                                                         placeholder="" autocomplete="off"
-                                                                        required></span>
+                                                                        ></span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -575,7 +572,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -599,7 +596,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -622,7 +619,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -648,7 +645,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -671,7 +668,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -743,7 +740,7 @@ Sukrapath Cooperative| Apply
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control"
                                                                 aria-required="true" aria-invalid="false" placeholder=""
-                                                                autocomplete="off" required></span>
+                                                                autocomplete="off"></span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -761,16 +758,19 @@ Sukrapath Cooperative| Apply
                                         </div>
                                         <div class="col-lg-10 d-f">
                                             <div class="iaf-right">
-                                                <form action="/action_page.php">
                                                     <select name="branch" id="branch">
+                                                        <option value="not-selected">Select branch below</option>
                                                         <option value="newroad">New Road</option>
                                                         <option value="kalimati">Kalimati</option>
                                                         <option value="gongabu">Gongabu</option>
                                                         <option value="chabhil">Chabhil</option>
                                                         <option value="tinkune">Tinkune</option>
                                                         <option value="lagankhel">Lagankhel</option>
+                                                        <option value="hattigauda">Hattigauda</option>
+                                                        <option value="bhaktapur">Bhaktapur</option>
+                                                        <option value="chitwan">Chitwan</option>
+                                                        <option value="nuwakot">Nuwakot</option>
                                                     </select>
-                                                </form>
                                             </div>
                                         </div>
                                     </div>
@@ -798,7 +798,7 @@ Sukrapath Cooperative| Apply
                             <span>दस्तखत <small>*</small> </span>
                             <span class="wpcf7-form-control-wrap file-129"><input type="file" name="signature" size="40"
                                     class="wpcf7-form-control wpcf7-multifile form-control" aria-invalid="false"
-                                    required></span>
+                                    ></span>
                         </div>
                     </div>
                     <div class="iafb-single">
@@ -807,7 +807,7 @@ Sukrapath Cooperative| Apply
                             <span>घर सम्मा पुगने नक्सा <small>*</small> </span>
                             <span class="wpcf7-form-control-wrap file-129"><input type="file" name="location_map"
                                     size="40" class="wpcf7-form-control wpcf7-multifile form-control"
-                                    multiple="multiple" aria-invalid="false" required></span>
+                                    multiple="multiple" aria-invalid="false"></span>
                         </div>
                     </div>
                     <div class="iafb-submit">
