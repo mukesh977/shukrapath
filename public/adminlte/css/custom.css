@@ -1,0 +1,9 @@
+.card-header {
+   	background: #17a2b8 !important;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    height: auto;
+    letter-spacing: 0.6px;
+    max-height: 49px
+}
